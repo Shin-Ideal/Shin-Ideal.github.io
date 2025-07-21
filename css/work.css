@@ -1,3 +1,8 @@
+.link-text {
+    text-decoration: none;
+    color: green;
+}
+
 .work-box {
     border: 2px solid green;
     padding: 16px;
