@@ -1,0 +1,75 @@
+html {
+    background-color: tan;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    margin: 8px;
+    padding-top: 50px;
+    padding-bottom: 16px;
+}
+
+.blink {
+    visibility: hidden;
+}
+
+.navbar {
+    display: flex;
+    padding-inline: 10px;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: black;
+    color: green;
+    z-index: 999;
+}
+
+.navbar .nav-title {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.navbar .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar .nav-menu li {
+    margin-inline: 16px;
+}
+
+.navbar .nav-menu a {
+    color: green;
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.footer-text {
+    text-align: center;
+    background-color: black;
+    color: green;
+}
+
+.footer-text p {
+    margin: 0;
+}
+
+.dos-input {
+    margin: 0;
+    font-family: 'Share Tech Mono', monospace;
+}
