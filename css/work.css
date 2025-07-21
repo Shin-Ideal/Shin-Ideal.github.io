@@ -1,0 +1,25 @@
+.work-box {
+    border: 2px solid green;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: skyblue;
+    border-radius: 8px;
+}
+
+.work-title {
+    margin: 0;
+}
+
+.work-lore {
+    padding: 5px;
+}
+
+.work-img {
+    height: auto;
+    width: 500px;
+}
+
+.work-link {
+    text-decoration: none;
+    color: green;
+}
