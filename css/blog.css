@@ -1,0 +1,16 @@
+.blog-index {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: large;
+    padding: 5%;
+    background-color: black;
+    color: green;
+}
+
+.month-text {
+    margin-left: 8px;
+}
+
+.month-text a {
+    color: blue;
+    text-decoration: none;
+}

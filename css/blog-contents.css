@@ -1,0 +1,26 @@
+.blog {
+    border: 2px solid #111111;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #333333;
+    border-radius: 8px;
+    color: #dddddd;
+}
+
+.title {
+    margin: 0;
+}
+
+.day {
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+.text {
+    margin: 0;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
